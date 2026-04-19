@@ -1,6 +1,6 @@
 # Flappy Bird Clone (Unity)
 
-This is a simple Flappy Bird-style game I built using Unity while learning game development.
+This is a simple Flappy Bird-style game. Built this as my first proper Unity game.
 
 The goal was to understand how basic game mechanics work — like player movement, collision, scoring, and UI — and turn it into a complete playable game.
 
